@@ -2,6 +2,10 @@
 
 Work Item handler to be used in conjunction with DMN to reach decisions that are based on data from an AI/ML REST Service
 
+### Based on:
+
+maven archetype jbpm-workitems-archetype
+
 ### Build with:
 
 $ mvn clean install
